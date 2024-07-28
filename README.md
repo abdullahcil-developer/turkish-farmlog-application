@@ -1,2 +1,2 @@
 # turkish-farmlog-desktopapp
-Farm Management Record Keeping Electronic Book. Made in and Born in TÜRKİYE.
+Electronic Book of Farm Management Record Keeping . Made in and Born in TÜRKİYE.
